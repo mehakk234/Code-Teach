@@ -7,6 +7,7 @@ A fullStack Learning Management System Built using MERN Stack.
 -Express
 -Docker Desktop
 -MongoDb
+-Testing
 
 ## How to Run
 1. Clone the repo
